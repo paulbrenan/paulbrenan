@@ -51,6 +51,3 @@ I'm a 3rd year **Computer Science student** at Cavite State University – Main 
 
 
 
-
-
-*Thanks for stopping by — feel free to explore my projects!* 😊
