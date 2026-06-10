@@ -6,8 +6,6 @@ I'm a 3rd year **Computer Science student** at Cavite State University – Main 
 ## 🚀 About Me
 
 - 🎓 BS Computer Science @ Cavite State University (2022 – Present)
-- 💻 Frontend Developer with experience in React and Vite
-- 🎮 Game dev enthusiast — built a multiplayer board game using Godot Engine
 - 📍 Based in Tagaytay City, Cavite, Philippines
 - 📬 Reach me at: paul.brenanbonilla@gmail.com
 
