@@ -2,7 +2,6 @@
 
 I'm a 3rd year **Computer Science student** at Cavite State University – Main Campus, passionate about building web applications, mobile apps, and games that solve real-world problems.
 
----
 
 ## 🚀 About Me
 
@@ -12,7 +11,7 @@ I'm a 3rd year **Computer Science student** at Cavite State University – Main 
 - 📍 Based in Tagaytay City, Cavite, Philippines
 - 📬 Reach me at: paul.brenanbonilla@gmail.com
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +36,7 @@ I'm a 3rd year **Computer Science student** at Cavite State University – Main 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+
 
 ## 📂 Featured Projects
 
@@ -50,9 +49,7 @@ I'm a 3rd year **Computer Science student** at Cavite State University – Main 
 | [Student Management System] | University portal with admin panel and student registration | HTML, CSS, JS |
 | [Honda Civic Showcase] | Multi-page website showcasing every Honda Civic generation | HTML, CSS |
 
-> 💡 Replace the `#` links with your actual repository URLs!
 
----
 
 
 
