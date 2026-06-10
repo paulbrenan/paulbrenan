@@ -47,7 +47,6 @@ I'm a 3rd year **Computer Science student** at Cavite State University – Main 
 | [SiglaTrack] | Gamified habit and event tracking app for productivity and wellness | React Native, Expo |
 | [Homeward] | 2D multiplayer tile-based board game inspired by Snakes and Ladders | Godot Engine |
 | [Student Management System] | University portal with admin panel and student registration | HTML, CSS, JS |
-| [Honda Civic Showcase] | Multi-page website showcasing every Honda Civic generation | HTML, CSS |
 
 
 
