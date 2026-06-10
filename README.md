@@ -43,24 +43,17 @@ I'm a 3rd year **Computer Science student** at Cavite State University – Main 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [BarangayKonek](#) | Centralized web platform for barangay communication and community services | React, Vite, SMS/Email/Push |
-| [PCBuilder](#) | Web app to build and configure compatible custom PCs | PHP, JavaScript, SQL |
-| [SiglaTrack](#) | Gamified habit and event tracking app for productivity and wellness | React Native, Expo |
-| [Homeward](#) | 2D multiplayer tile-based board game inspired by Snakes and Ladders | Godot Engine |
-| [Student Management System](#) | University portal with admin panel and student registration | HTML, CSS, JS |
-| [Honda Civic Showcase](#) | Multi-page website showcasing every Honda Civic generation | HTML, CSS |
+| [BarangayKonek] | Centralized web platform for barangay communication and community services | React, Vite, SMS/Email/Push |
+| [PCBuilder] | Web app to build and configure compatible custom PCs | PHP, JavaScript, SQL |
+| [SiglaTrack] | Gamified habit and event tracking app for productivity and wellness | React Native, Expo |
+| [Homeward] | 2D multiplayer tile-based board game inspired by Snakes and Ladders | Godot Engine |
+| [Student Management System] | University portal with admin panel and student registration | HTML, CSS, JS |
+| [Honda Civic Showcase] | Multi-page website showcasing every Honda Civic generation | HTML, CSS |
 
 > 💡 Replace the `#` links with your actual repository URLs!
 
 ---
 
-## 📊 GitHub Stats
 
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-> 💡 Replace `YOUR_USERNAME` with your actual GitHub username in both stat URLs above!
-
----
 
 *Thanks for stopping by — feel free to explore my projects!* 😊
